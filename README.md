@@ -10,7 +10,7 @@ To run:
 ```shell
 #!/bin/bash
 # executable file called propdiff
-java -classpath $HOME/path/to/propdiff.class PropDiff $*
+java -classpath $HOME/path/to/propdiff PropDiff $*
 ```
 
 To use as a diftool:
