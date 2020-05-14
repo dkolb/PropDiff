@@ -24,3 +24,7 @@ To use as a diftool:
 ```
 $ git difftool --tool=propdiff some.properties
 ```
+
+## Dev Notes
+
+Is there a better way?  Sure, but this was at the top of the google search results so it's what you get.
